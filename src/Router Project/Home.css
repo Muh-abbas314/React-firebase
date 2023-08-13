@@ -1,0 +1,34 @@
+@import url('../Assets/image\ 55.png');
+
+nav{
+    background-color: #FFF7ED;
+    display: flex;
+    height: 112px;
+    justify-content: space-between;
+    align-items: center;
+}
+nav img{
+    margin: 20px 30px;
+}
+.Links{
+
+    margin: 20px 3rem;
+    /* padding: 12px; */
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+}
+li{
+    /* margin: 0 10px; */
+    color: #4D4D4D;
+    list-style: none;
+    font-size: larger;
+    font-weight: bold;
+}
+.main-body{
+    border: 1px solid black;
+    background-image: url("../Assets/image\ 55.png");
+    width: 20rem;
+    height: 20rem;
+}

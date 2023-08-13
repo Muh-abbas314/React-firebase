@@ -1,0 +1,14 @@
+.login-box{
+    width: 300px;
+    margin-top: 10rem;
+    border-radius: 10px;
+    
+}
+
+
+.elements input{
+    margin:12px 0px;
+}
+.elements input::placeholder{
+    padding: 5px;
+}
